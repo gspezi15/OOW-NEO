@@ -5,7 +5,37 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/George/Documents/GitHub/OOW-NEO/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+				"C:/Users/George/Documents/GitHub/OOW-NEO/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
+				"C:/Users/George/Documents/GitHub/OOW-NEO/Content/TopDown/Blueprints/Pickups/M_Blaster_Item.uasset",
+				"C:/Users/George/Documents/GitHub/OOW-NEO/Content/TopDown/Blueprints/Pickups/M_Blaster_Pickup.uasset",
+				"C:/Users/George/Documents/GitHub/OOW-NEO/Content/TopDown/Blueprints/Pickups/M_Laser_Pickup.uasset",
+				"C:/Users/George/Documents/GitHub/OOW-NEO/Content/TopDown/Blueprints/Pickups/M_Plasma_Pickup.uasset",
+				"C:/Users/George/Documents/GitHub/OOW-NEO/Content/TopDown/Blueprints/Weapons/M_Blaster.uasset",
+				"C:/Users/George/Documents/GitHub/OOW-NEO/Content/TopDown/Blueprints/Pickups/PickupsParent.uasset",
+				"C:/Users/George/Documents/GitHub/OOW-NEO/Content/TopDown/Blueprints/Pickups/ModulePickups.uasset",
+				"C:/Users/George/Documents/GitHub/OOW-NEO/Content/TopDown/Blueprints/Pickups/M_Spreadshot_Pickup.uasset",
+				"C:/Users/George/Documents/GitHub/OOW-NEO/Content/__ExternalActors__/TopDown/Maps/TopDownMap/6/EH/C040I5V180GA8SIIGF5UC5.uasset",
+				"C:/Users/George/Documents/GitHub/OOW-NEO/Content/__ExternalActors__/TopDown/Maps/TopDownMap/9/7H/DL9E9F3IFWAGU1EWCVHM0W.uasset",
+				"C:/Users/George/Documents/GitHub/OOW-NEO/Content/__ExternalActors__/TopDown/Maps/TopDownMap/D/87/L1DV16YVP7CZ1FN5F4WWIG.uasset",
+				"C:/Users/George/Documents/GitHub/OOW-NEO/Content/__ExternalActors__/TopDown/Maps/TopDownMap/5/E1/RPUFBZ5UKVGW9PEN1CSN5T.uasset",
+				"C:/Users/George/Documents/GitHub/OOW-NEO/Content/TopDown/Maps/_GENERATED/George/Box_DFC73839.uasset",
+				"C:/Users/George/Documents/GitHub/OOW-NEO/Content/TopDown/Maps/_GENERATED/George/BlasterPlaceHolder.uasset",
+				"C:/Users/George/Documents/GitHub/OOW-NEO/Content/TopDown/Maps/_GENERATED/George/PlasmaPlaceHolder.uasset",
+				"C:/Users/George/Documents/GitHub/OOW-NEO/Content/TopDown/Maps/_GENERATED/George/Combined_616541AF.uasset",
+				"C:/Users/George/Documents/GitHub/OOW-NEO/Content/TopDown/Maps/_GENERATED/George/LaserPlaceHolder.uasset",
+				"C:/Users/George/Documents/GitHub/OOW-NEO/Content/__ExternalActors__/TopDown/Maps/TopDownMap/3/RG/XOAZMB5QVL20UGXOCZ1LZK.uasset",
+				"C:/Users/George/Documents/GitHub/OOW-NEO/Content/__ExternalActors__/TopDown/Maps/TopDownMap/B/6D/OA60LY2TDLLZ2D0H6QAJ52.uasset",
+				"C:/Users/George/Documents/GitHub/OOW-NEO/Content/__ExternalActors__/TopDown/Maps/TopDownMap/1/50/L77OMUCZG3PX7UJA20CNTK.uasset",
+				"C:/Users/George/Documents/GitHub/OOW-NEO/Content/__ExternalActors__/TopDown/Maps/TopDownMap/E/LE/MDJSK60NTQ0Y5RXPM514M6.uasset",
+				"C:/Users/George/Documents/GitHub/OOW-NEO/Content/__ExternalActors__/TopDown/Maps/TopDownMap/E/55/Y42MZ3ZRR4X0D1MPO8OEZ5.uasset",
+				"C:/Users/George/Documents/GitHub/OOW-NEO/Content/TopDown/Blueprints/Weapons/M_Laser.uasset",
+				"C:/Users/George/Documents/GitHub/OOW-NEO/Content/TopDown/Blueprints/Weapons/M_Plasma.uasset",
+				"C:/Users/George/Documents/GitHub/OOW-NEO/Content/TopDown/Blueprints/Weapons/M_Spreadshot.uasset",
+				"C:/Users/George/Documents/GitHub/OOW-NEO/Content/TopDown/Maps/_GENERATED/George/Box_4FA7D4AD.uasset",
+				"C:/Users/George/Documents/GitHub/OOW-NEO/Content/TopDown/Maps/_GENERATED/George/Cylinder_B25129B4.uasset",
+				"C:/Users/George/Documents/GitHub/OOW-NEO/Content/TopDown/Maps/_GENERATED/George/Box_746AED29.uasset",
+				"C:/Users/George/Documents/GitHub/OOW-NEO/Content/TopDown/Maps/_GENERATED/George/Cylinder_DDAC13AF.uasset",
+				"C:/Users/George/Documents/GitHub/OOW-NEO/Content/TopDown/Maps/_GENERATED/George/Cylinder_CF878813.uasset"
 			]
 		}
 	]
