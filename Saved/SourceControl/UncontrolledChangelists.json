@@ -35,7 +35,6 @@
 				"C:/Users/George/Documents/GitHub/OOW-NEO/Content/TopDown/Maps/_GENERATED/George/Cylinder_CF878813.uasset",
 				"C:/Users/George/Documents/GitHub/OOW-NEO/Content/TopDown/Input/Actions/Fire.uasset",
 				"C:/Users/George/Documents/GitHub/OOW-NEO/Content/TopDown/Input/IMC_Default.uasset",
-				"C:/Users/George/Documents/GitHub/OOW-NEO/Content/TopDown/Input/Mobility/Fire.uasset",
 				"C:/Users/George/Documents/GitHub/OOW-NEO/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset",
 				"C:/Users/George/Documents/GitHub/OOW-NEO/Content/TopDown/Blueprints/SFX/RustleSpawn.uasset",
 				"C:/Users/George/Documents/GitHub/OOW-NEO/Content/TopDown/Blueprints/SFX/Settings.uasset",
@@ -110,6 +109,10 @@
 				"C:/Users/George/Documents/GitHub/OOW-NEO/Content/TopDown/Static_Mesh/SignPost.uasset",
 				"C:/Users/George/Documents/GitHub/OOW-NEO/Content/TopDown/Static_Mesh/pasted__lambert2.uasset",
 				"C:/Users/George/Documents/GitHub/OOW-NEO/Content/TopDown/Static_Mesh/placeholderbearstriker_pCube2.uasset",
+				"C:/Users/George/Documents/GitHub/OOW-NEO/Content/TopDown/Blueprints/AI/INT_Attack.uasset",
+				"C:/Users/George/Documents/GitHub/OOW-NEO/Content/TopDown/Blueprints/AI/BBService_InMeleeRange.uasset",
+				"C:/Users/George/Documents/GitHub/OOW-NEO/Content/TopDown/Blueprints/AI/BBTask_Melee.uasset",
+				"C:/Users/George/Documents/GitHub/OOW-NEO/Content/TopDown/Input/Mobility/Fire.uasset",
 				"C:/Users/George/Documents/GitHub/OOW-NEO/Content/TopDown/Blueprints/Pickups/M_Blaster_Item.uasset",
 				"C:/Users/George/Documents/GitHub/OOW-NEO/Content/TopDown/Maps/_GENERATED/George/Box_DFC73839.uasset",
 				"C:/Users/George/Documents/GitHub/OOW-NEO/Content/TopDown/Maps/_GENERATED/George/Combined_616541AF.uasset"
