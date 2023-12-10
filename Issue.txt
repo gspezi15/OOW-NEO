@@ -1,0 +1,8 @@
+Z-fighting
+Voice audio mixing
+Character model (later down line), change character colour, attach mesh to sockets as an intermediate
+Shooting Animation
+
+
+Others:
+LazerCows
