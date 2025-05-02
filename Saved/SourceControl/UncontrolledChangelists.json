@@ -1,0 +1,26 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/George/Documents/GitHub/OOW-NEO/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/George/Documents/GitHub/OOW-NEO/Content/TopDown/Blueprints/Materials/StoneWall.uasset",
+				"C:/Users/George/Documents/GitHub/OOW-NEO/Content/TopDown/Maps/EmeraldValley.umap",
+				"C:/Users/George/Documents/GitHub/OOW-NEO/Content/TopDown/Blueprints/Materials/StoneFloor.uasset",
+				"C:/Users/George/Documents/GitHub/OOW-NEO/Content/TopDown/Maps/Vermilia.umap",
+				"C:/Users/George/Documents/GitHub/OOW-NEO/Content/TopDown/Blueprints/Materials/SkyMat_2.uasset",
+				"C:/Users/George/Documents/GitHub/OOW-NEO/Content/TopDown/Blueprints/Materials/Vermilia_Sky.uasset",
+				"C:/Users/George/Documents/GitHub/OOW-NEO/Content/TopDown/Blueprints/Materials/Water1.uasset",
+				"C:/Users/George/Documents/GitHub/OOW-NEO/Content/TopDown/Blueprints/Materials/SwampWater_Mat.uasset",
+				"C:/Users/George/Documents/GitHub/OOW-NEO/Content/TopDown/Blueprints/LevelObjects/FlammableBarrier.uasset",
+				"C:/Users/George/Documents/GitHub/OOW-NEO/Content/TopDown/Blueprints/AI/PyropaAI.uasset",
+				"C:/Users/George/Documents/GitHub/OOW-NEO/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset",
+				"C:/Users/George/Documents/GitHub/OOW-NEO/Content/TopDown/Blueprints/AI/FireBall.uasset",
+				"C:/Users/George/Documents/GitHub/OOW-NEO/Content/TopDown/Blueprints/SFX/Fireball.uasset",
+				"C:/Users/George/Documents/GitHub/OOW-NEO/Content/TopDown/Blueprints/Pickups/ModulePickups.uasset"
+			]
+		}
+	]
+}
