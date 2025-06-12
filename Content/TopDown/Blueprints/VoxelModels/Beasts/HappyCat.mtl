@@ -1,0 +1,167 @@
+# Blender MTL File: 'cactice.blend'
+# Material Count: 15
+
+newmtl palette.022
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd E:\\MagicaVoxel-0.99.7.1-win64\\export\\Cat\\HappyCat-0-cathead.png
+
+newmtl palette.023
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd E:\\MagicaVoxel-0.99.7.1-win64\\export\\Cat\\HappyCat-15-cactice.png
+
+newmtl palette.024
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd E:\\MagicaVoxel-0.99.7.1-win64\\export\\Cat\\HappyCat-14-tibia.png
+
+newmtl palette.025
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd E:\\MagicaVoxel-0.99.7.1-win64\\export\\Cat\\HappyCat-13-paw.png
+
+newmtl palette.026
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd E:\\MagicaVoxel-0.99.7.1-win64\\export\\Cat\\HappyCat-12-upperleg.png
+
+newmtl palette.027
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd E:\\MagicaVoxel-0.99.7.1-win64\\export\\Cat\\HappyCat-11-tibia.png
+
+newmtl palette.028
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd E:\\MagicaVoxel-0.99.7.1-win64\\export\\Cat\\HappyCat-10-paw.png
+
+newmtl palette.029
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd E:\\MagicaVoxel-0.99.7.1-win64\\export\\Cat\\HappyCat-9-upperleg.png
+
+newmtl palette.031
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd E:\\MagicaVoxel-0.99.7.1-win64\\export\\Cat\\HappyCat-1-upperleg.png
+
+newmtl palette.032
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd E:\\MagicaVoxel-0.99.7.1-win64\\export\\Cat\\HappyCat-2-paw.png
+
+newmtl palette.033
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd E:\\MagicaVoxel-0.99.7.1-win64\\export\\Cat\\HappyCat-5-tibia.png
+
+newmtl palette.034
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd E:\\MagicaVoxel-0.99.7.1-win64\\export\\Cat\\HappyCat-6-upperleg.png
+
+newmtl palette.035
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd E:\\MagicaVoxel-0.99.7.1-win64\\export\\Cat\\HappyCat-7-paw.png
+
+newmtl palette.036
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd E:\\MagicaVoxel-0.99.7.1-win64\\export\\Cat\\HappyCat-4-paw.png
+
+newmtl palette.037
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd E:\\MagicaVoxel-0.99.7.1-win64\\export\\Cat\\HappyCat-3-tibia.png
