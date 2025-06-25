@@ -5,7 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/George/Documents/GitHub/OOW-NEO/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+				"C:/Users/George/Documents/GitHub/OOW-NEO/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/George/Documents/GitHub/OOW-NEO/Content/TopDown/Blueprints/Materials/Sands.uasset",
+				"C:/Users/George/Documents/GitHub/OOW-NEO/Content/TopDown/Maps/EmeraldValley.umap",
+				"C:/Users/George/Documents/GitHub/OOW-NEO/Content/TopDown/Blueprints/VoxelModels/Environment/Cliff2.uasset",
+				"C:/Users/George/Documents/GitHub/OOW-NEO/Content/TopDown/Blueprints/LevelGeometry/Shapes/Natural/Cliff2sides.uasset",
+				"C:/Users/George/Documents/GitHub/OOW-NEO/Content/TopDown/Blueprints/Widgets/MainHUD.uasset"
 			]
 		}
 	]
