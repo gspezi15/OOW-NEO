@@ -10,7 +10,15 @@
 				"C:/Users/George/Documents/GitHub/OOW-NEO/Content/TopDown/Maps/EmeraldValley.umap",
 				"C:/Users/George/Documents/GitHub/OOW-NEO/Content/TopDown/Blueprints/VoxelModels/Environment/Cliff2.uasset",
 				"C:/Users/George/Documents/GitHub/OOW-NEO/Content/TopDown/Blueprints/LevelGeometry/Shapes/Natural/Cliff2sides.uasset",
-				"C:/Users/George/Documents/GitHub/OOW-NEO/Content/TopDown/Blueprints/Widgets/MainHUD.uasset"
+				"C:/Users/George/Documents/GitHub/OOW-NEO/Content/TopDown/Blueprints/Widgets/MainHUD.uasset",
+				"C:/Users/George/Documents/GitHub/OOW-NEO/Content/TopDown/Blueprints/Materials/MiniMapTarget.uasset",
+				"C:/Users/George/Documents/GitHub/OOW-NEO/Content/TopDown/Maps/ValleySubLevels/sublevel8.umap",
+				"C:/Users/George/Documents/GitHub/OOW-NEO/Content/TopDown/Maps/ValleySubLevels/sublevel9.umap",
+				"C:/Users/George/Documents/GitHub/OOW-NEO/Content/TopDown/Maps/ValleySubLevels/sublevel10.umap",
+				"C:/Users/George/Documents/GitHub/OOW-NEO/Content/TopDown/Maps/VermiliaMarsh.umap",
+				"C:/Users/George/Documents/GitHub/OOW-NEO/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset",
+				"C:/Users/George/Documents/GitHub/OOW-NEO/Content/TopDown/Blueprints/AI/PyropaAI.uasset",
+				"C:/Users/George/Documents/GitHub/OOW-NEO/Content/TopDown/Blueprints/Pickups/ModulePickups.uasset"
 			]
 		}
 	]
