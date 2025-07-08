@@ -1,0 +1,189 @@
+# Blender MTL File: 'shockwool.blend'
+# Material Count: 17
+
+newmtl palette
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd E:\\MagicaVoxel-0.99.7.1-win64\\export\\Shockwool\\Shockwool-0-sheephead.png
+
+newmtl palette.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd E:\\MagicaVoxel-0.99.7.1-win64\\export\\Shockwool\\Shockwool-1.png
+
+newmtl palette.002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd E:\\MagicaVoxel-0.99.7.1-win64\\export\\Shockwool\\Shockwool-2.png
+
+newmtl palette.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd E:\\MagicaVoxel-0.99.7.1-win64\\export\\Shockwool\\Shockwool-3.png
+
+newmtl palette.004
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd E:\\MagicaVoxel-0.99.7.1-win64\\export\\Shockwool\\Shockwool-4.png
+
+newmtl palette.005
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd E:\\MagicaVoxel-0.99.7.1-win64\\export\\Shockwool\\Shockwool-5.png
+
+newmtl palette.006
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd E:\\MagicaVoxel-0.99.7.1-win64\\export\\Shockwool\\Shockwool-6.png
+
+newmtl palette.007
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd E:\\MagicaVoxel-0.99.7.1-win64\\export\\Shockwool\\Shockwool-7.png
+
+newmtl palette.008
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd E:\\MagicaVoxel-0.99.7.1-win64\\export\\Shockwool\\Shockwool-8.png
+
+newmtl palette.009
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd E:\\MagicaVoxel-0.99.7.1-win64\\export\\Shockwool\\Shockwool-9.png
+
+newmtl palette.010
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd E:\\MagicaVoxel-0.99.7.1-win64\\export\\Shockwool\\Shockwool-10.png
+
+newmtl palette.011
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd E:\\MagicaVoxel-0.99.7.1-win64\\export\\Shockwool\\Shockwool-11.png
+
+newmtl palette.012
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd E:\\MagicaVoxel-0.99.7.1-win64\\export\\Shockwool\\Shockwool-12.png
+
+newmtl palette.014
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd E:\\MagicaVoxel-0.99.7.1-win64\\export\\Shockwool\\Shockwool-14.png
+
+newmtl palette.015
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd E:\\MagicaVoxel-0.99.7.1-win64\\export\\Shockwool\\Shockwool-15.png
+
+newmtl palette.016
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd E:\\MagicaVoxel-0.99.7.1-win64\\export\\Shockwool\\Shockwool-16.png
+
+newmtl palette.017
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd E:\\MagicaVoxel-0.99.7.1-win64\\export\\Shockwool\\Shockwool-17.png
